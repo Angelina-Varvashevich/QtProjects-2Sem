@@ -1,0 +1,2 @@
+# QtProjects 2Sem
+ 
