@@ -1,0 +1,4 @@
+
+coin 1105 
+paint 2002 
+stat 1067 

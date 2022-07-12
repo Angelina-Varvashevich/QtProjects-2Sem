@@ -1,0 +1,8 @@
+informatics 4 Varvashevich 9 9 8 8
+informatics 3 Shestak 7 9 8 8
+informatics 4 Burak 9 9 8 6
+phisics 6 Voloshin 10 7 9 7
+informatics 3 Ivanov 3 5 6 10
+physics 6 Petrov 10 10 10 10
+informatics 3 Guzarevich 10 9 9 6
+informatics 2 Paulin 8 2 8 8
